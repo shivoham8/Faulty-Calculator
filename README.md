@@ -1,7 +1,7 @@
 # Faulty Calculator
 
 ## Description
-A simple JavaScript program embedded in an HTML file that takes two numbers as input, performs mathematical operations, and outputs the results based on a random condition.
+This repository contains a simple HTML file with an embedded JavaScript program representing a Faulty Calculator. The calculator takes two user-input numbers, performs various mathematical operations, and outputs the results to the console. The twist lies in a random condition that influences the displayed results, adding an element of unpredictability to the calculations.
 
 ## Usage
 1. Open the HTML file in a web browser.
